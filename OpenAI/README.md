@@ -13,7 +13,8 @@ OpenAI's GPT models are known for:
 
 ## Supported Models
 
-- **GPT-4 Turbo**: Latest and most capable model
+- **GPT-5**: Most advanced model with enhanced reasoning and multimodal capabilities
+- **GPT-4 Turbo**: Latest and most capable model (previous generation)
 - **GPT-4**: Advanced reasoning and complex task handling
 - **GPT-3.5 Turbo**: Fast and efficient for most applications
 - **GPT-4o**: Optimized for conversation and real-time interaction

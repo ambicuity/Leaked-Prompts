@@ -17,9 +17,9 @@ This repository serves as a comprehensive collection of system prompts and inter
 
 ### System Prompts by Platform
 
-- **Anthropic**: Claude models and variants
-- **Google**: Gemini models and variants
-- **OpenAI**: GPT models and variants
+- **Anthropic**: Claude 4, Claude 3.5 models and variants
+- **Google**: Gemini 2.5 Pro, Gemini 2.0 models and variants  
+- **OpenAI**: GPT-5, GPT-4 models and variants
 - **Perplexity**: Perplexity AI models
 - **Proton**: Proton's AI services
 - **xAI**: Grok and other xAI models
@@ -51,6 +51,9 @@ All markdown files follow a consistent naming pattern for clarity and easy navig
 ```
 
 **Examples:**
+- `claude-4-advanced-constitutional-ai.md`
+- `gpt-5-advanced-system-message.md`
+- `gemini-2-5-pro-advanced-multimodal.md`
 - `claude-3-5-sonnet-full-system-message.md`
 - `gpt-4-listener-personality.md`
 - `gemini-2-0-flash-webapp.md`
