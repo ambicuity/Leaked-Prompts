@@ -15,7 +15,8 @@ xAI's models are known for:
 
 - **Grok-1**: First generation model with real-time information access
 - **Grok-1.5**: Enhanced version with improved reasoning
-- **Grok-2**: Latest model with advanced capabilities
+- **Grok-2**: Latest model with advanced capabilities and sophisticated reasoning
+- **Grok-2 Mini**: Efficient version optimized for cost-effectiveness while maintaining core capabilities
 
 ## Prompt Style Guidelines
 

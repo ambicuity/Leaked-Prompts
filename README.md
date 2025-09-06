@@ -17,13 +17,13 @@ This repository serves as a comprehensive collection of system prompts and inter
 
 ### System Prompts by Platform
 
-- **Anthropic**: Claude 4, Claude 3.5 (Sonnet, Haiku), Claude 3 (Opus, Haiku) models and variants
-- **Google**: Gemini 2.5 Pro, Gemini 1.5 (Pro, Flash), Gemini 1.0 Pro, Gemini 2.0 Flash models and variants  
-- **OpenAI**: GPT-5, GPT-4o, GPT-4 Turbo, GPT-4, GPT-3.5 Turbo, O1 (reasoning), O1-Mini models and variants
+- **Anthropic**: Claude 4, Claude 3.5 (Sonnet, Sonnet Computer Use, Haiku), Claude 3 (Opus, Haiku) models and variants
+- **Google**: Gemini 2.5 Pro, Gemini 2.0 (Flash, Flash Thinking), Gemini 1.5 (Pro, Flash), Gemini 1.0 Pro models and variants  
+- **OpenAI**: GPT-5, GPT-4o (standard, mini), GPT-4 Turbo, GPT-4, GPT-3.5 Turbo, O1 (reasoning), O1-Mini models and variants
 - **Perplexity**: Perplexity AI models
 - **Proton**: Proton's AI services
-- **xAI**: Grok and other xAI models
-- **Misc**: Meta Llama (3.1 405B, 3.1 70B, Code Llama), Mistral (Large), Cohere (Command R+), GitHub Copilot, and other models
+- **xAI**: Grok-2, Grok-2 Mini and other xAI models
+- **Misc**: Meta Llama (3.3 70B, 3.2 90B, 3.1 405B/70B, Code Llama), Mistral (Large 2), Cohere (Command R+), DeepSeek V3, Qwen 2.5 72B, GitHub Copilot, and other models
 
 ## Directory Structure
 

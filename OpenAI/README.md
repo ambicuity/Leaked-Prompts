@@ -15,6 +15,7 @@ OpenAI's GPT models are known for:
 
 - **GPT-5**: Most advanced model with enhanced reasoning, multimodal capabilities, and real-time processing
 - **GPT-4o**: Flagship multimodal model with text, image, and audio processing capabilities
+- **GPT-4o Mini**: Cost-efficient multimodal model maintaining high quality at optimized computational cost
 - **GPT-4 Turbo**: Enhanced reasoning with 128k context window and improved performance
 - **GPT-4**: Advanced reasoning and multimodal capabilities (code interpreter, listener personality)
 - **GPT-3.5 Turbo**: Fast and efficient conversational AI for practical applications
