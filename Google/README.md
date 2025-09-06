@@ -14,9 +14,10 @@ Google's Gemini models are known for:
 ## Supported Models
 
 - **Gemini 2.5 Pro**: Most advanced multimodal model with extended context and real-time capabilities
-- **Gemini 1.5 Pro**: Most capable model with long context window (previous generation)
-- **Gemini 1.5 Flash**: Fast and efficient for most tasks
-- **Gemini 1.0 Pro**: Original production model
+- **Gemini 1.5 Pro**: Advanced multimodal model with 1M token context window
+- **Gemini 1.5 Flash**: Fast and efficient multimodal processing for most tasks
+- **Gemini 1.0 Pro**: Foundation multimodal model with strong reasoning capabilities
+- **Gemini 2.0 Flash**: Latest generation fast model for web applications
 - **Gemini 1.0 Nano**: Lightweight model for on-device applications
 
 ## Prompt Style Guidelines

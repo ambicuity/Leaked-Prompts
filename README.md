@@ -17,13 +17,13 @@ This repository serves as a comprehensive collection of system prompts and inter
 
 ### System Prompts by Platform
 
-- **Anthropic**: Claude 4, Claude 3.5 models and variants
-- **Google**: Gemini 2.5 Pro, Gemini 2.0 models and variants  
-- **OpenAI**: GPT-5, GPT-4 models and variants
+- **Anthropic**: Claude 4, Claude 3.5 (Sonnet, Haiku), Claude 3 (Opus, Haiku) models and variants
+- **Google**: Gemini 2.5 Pro, Gemini 1.5 (Pro, Flash), Gemini 1.0 Pro, Gemini 2.0 Flash models and variants  
+- **OpenAI**: GPT-5, GPT-4o, GPT-4 Turbo, GPT-4, GPT-3.5 Turbo, O1 (reasoning), O1-Mini models and variants
 - **Perplexity**: Perplexity AI models
 - **Proton**: Proton's AI services
 - **xAI**: Grok and other xAI models
-- **Misc**: Other models and platforms
+- **Misc**: Meta Llama (3.1 405B, 3.1 70B, Code Llama), Mistral (Large), Cohere (Command R+), GitHub Copilot, and other models
 
 ## Directory Structure
 
@@ -53,10 +53,16 @@ All markdown files follow a consistent naming pattern for clarity and easy navig
 **Examples:**
 - `claude-4-advanced-constitutional-ai.md`
 - `gpt-5-advanced-system-message.md`
+- `gpt-4o-multimodal-system-message.md`
+- `o1-reasoning-system-message.md`
 - `gemini-2-5-pro-advanced-multimodal.md`
+- `gemini-1-5-pro-advanced-multimodal-system-message.md`
 - `claude-3-5-sonnet-full-system-message.md`
 - `gpt-4-listener-personality.md`
-- `gemini-2-0-flash-webapp.md`
+- `llama-3-1-405b-flagship-system-message.md`
+- `mistral-large-advanced-reasoning-system-message.md`
+- `cohere-command-r-plus-enterprise-system-message.md`
+- `github-copilot-ai-programming-assistant-system-message.md`
 
 ## Prompt Categories
 
