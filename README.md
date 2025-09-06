@@ -1,8 +1,8 @@
 # Leaked-Prompts
 
-A professional collection of reverse-engineered and system prompts for large language models, structured for educational and research purposes. This repository documents the evolution of prompt engineering techniques from foundational to sophisticated applications.
+A professional collection of reverse-engineered and system prompts for large language models, structured for educational and research purposes. This repository documents actual system prompts extracted from various AI platforms and services.
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Directory Structure](#directory-structure)
@@ -11,11 +11,11 @@ A professional collection of reverse-engineered and system prompts for large lan
 - [Contributing](#contributing)
 - [License](#license)
 
-## 🎯 Overview
+## Overview
 
-This repository serves as a comprehensive collection of system prompts and prompt engineering techniques for various large language models (LLMs). The prompts are organized by AI model and complexity level, ranging from basic instructions to advanced system prompts with internal monologues and complex rule sets.
+This repository serves as a comprehensive collection of system prompts and internal instructions extracted from various large language models (LLMs). The prompts are organized by AI platform and model version, documenting the actual system-level instructions used by these models in production environments.
 
-### Supported AI Models
+### System Prompts by Platform
 
 - **Anthropic**: Claude models and variants
 - **Google**: Gemini models and variants
@@ -25,7 +25,7 @@ This repository serves as a comprehensive collection of system prompts and promp
 - **xAI**: Grok and other xAI models
 - **Misc**: Other models and platforms
 
-## 📁 Directory Structure
+## Directory Structure
 
 ```
 Leaked-Prompts/
@@ -40,9 +40,9 @@ Leaked-Prompts/
 └── xAI/                # Grok and other xAI models
 ```
 
-Each directory contains model-specific prompts with their own README.md explaining the model's characteristics and prompt styles.
+Each directory contains model-specific system prompts with their own README.md explaining the model's characteristics and documented prompt variations.
 
-## 🏷️ File Naming Convention
+## File Naming Convention
 
 All markdown files follow a consistent naming pattern for clarity and easy navigation:
 
@@ -51,38 +51,34 @@ All markdown files follow a consistent naming pattern for clarity and easy navig
 ```
 
 **Examples:**
-- `claude-4.1-opus-thinking.md`
-- `gpt-5-listener-personality.md`
-- `gemini-pro-json-formatter.md`
+- `claude-3-5-sonnet-full-system-message.md`
+- `gpt-4-listener-personality.md`
+- `gemini-2-0-flash-webapp.md`
 
-## 📚 Prompt Categories
+## Prompt Categories
 
-### Foundational Prompts
-Simple, direct instructions that demonstrate basic prompt engineering principles. These establish baseline behaviors for each model.
+### Base System Prompts
+Core system instructions that define the fundamental behavior and constraints of each model. These establish the primary operational parameters.
 
-### Intermediate Prompts
-More complex prompts requiring specific formatting, multi-step reasoning, or structured outputs. These showcase how prompts can elicit procedural or formatted responses.
+### Tool-Enabled Prompts
+System prompts that include instructions for using specific tools, APIs, or capabilities. These show how models integrate with external systems and functions.
 
-### Advanced System Prompts
-Sophisticated prompts with detailed personas, internal monologues, and complex rule sets. These demonstrate advanced prompt engineering techniques including:
-- Chain of thought reasoning
-- Role-playing with detailed personas
-- Internal monologue simulation
-- Multi-layered instruction sets
+### Personality and Persona Prompts
+Advanced system prompts that define specific personalities, conversation styles, or behavioral patterns. These demonstrate how different interaction modes are configured.
 
-## 🤝 Contributing
+## Contributing
 
-We welcome contributions of new prompts, improvements to existing ones, and documentation enhancements. Please ensure:
+We welcome contributions of new leaked prompts, improvements to existing documentation, and additional prompt variations. Please ensure:
 
 1. Follow the established file naming convention
-2. Include clear descriptions of each prompt's purpose
-3. Test prompts with the target model when possible
-4. Maintain the educational and research focus
+2. Include source information or extraction method when possible
+3. Verify authenticity of system prompts when feasible
+4. Maintain the research and documentation focus
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🏷️ Topics
+## Topics
 
 `ai` `prompts` `prompt-engineering` `llm` `large-language-models` `chatbots` `openai` `gemini` `anthropic` `claude`
