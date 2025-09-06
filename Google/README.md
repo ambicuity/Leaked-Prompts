@@ -13,6 +13,7 @@ Google's Gemini models are known for:
 
 ## Supported Models
 
+- **Gemma 3**: Latest efficient multimodal model optimized for single GPU deployment (270M-27B variants)
 - **Gemini 2.5 Pro**: Most advanced multimodal model with extended context and real-time capabilities
 - **Gemini 2.0 Flash**: Latest generation fast model for web applications with real-time capabilities
 - **Gemini 2.0 Flash Thinking**: Experimental model with explicit reasoning and transparent thinking processes
