@@ -13,10 +13,15 @@ OpenAI's GPT models are known for:
 
 ## Supported Models
 
-- **GPT-4 Turbo**: Latest and most capable model
-- **GPT-4**: Advanced reasoning and complex task handling
-- **GPT-3.5 Turbo**: Fast and efficient for most applications
-- **GPT-4o**: Optimized for conversation and real-time interaction
+- **GPT-OSS**: OpenAI's open-weight models designed for powerful reasoning, agentic tasks, and developer use cases (20B/120B variants)
+- **GPT-5**: Most advanced model with enhanced reasoning, multimodal capabilities, and real-time processing
+- **GPT-4o**: Flagship multimodal model with text, image, and audio processing capabilities
+- **GPT-4o Mini**: Cost-efficient multimodal model maintaining high quality at optimized computational cost
+- **GPT-4 Turbo**: Enhanced reasoning with 128k context window and improved performance
+- **GPT-4**: Advanced reasoning and multimodal capabilities (code interpreter, listener personality)
+- **GPT-3.5 Turbo**: Fast and efficient conversational AI for practical applications
+- **O1**: Advanced reasoning model specialized for complex problem-solving (Strawberry)
+- **O1-Mini**: Efficient reasoning model optimized for practical reasoning tasks
 
 ## Prompt Style Guidelines
 

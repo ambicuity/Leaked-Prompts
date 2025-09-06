@@ -13,9 +13,12 @@ Anthropic's Claude models are known for:
 
 ## Supported Models
 
-- **Claude 3.5 Sonnet**: Latest and most capable model
-- **Claude 3 Opus**: Powerful model for complex tasks
-- **Claude 3 Sonnet**: Balanced performance and speed
+- **Claude 4**: Most advanced Constitutional AI with enhanced multimodal capabilities
+- **Claude 3.5 Sonnet**: Latest and most capable model with advanced reasoning and coding capabilities
+- **Claude 3.5 Sonnet (Computer Use)**: Specialized version with advanced computer interaction and automation capabilities
+- **Claude 3.5 Haiku**: Advanced fast processing with improved capabilities
+- **Claude 3 Opus**: Most powerful Claude 3 model for complex tasks
+- **Claude 3 Sonnet**: Balanced performance and speed (included in existing system message)
 - **Claude 3 Haiku**: Fast and efficient for simpler tasks
 
 ## Prompt Style Guidelines
