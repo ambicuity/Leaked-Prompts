@@ -31,4 +31,4 @@ Perplexity models respond well to:
 Prompts are organized by complexity and use case:
 - **Basic**: Simple research queries and fact-checking
 - **Intermediate**: Structured research with citation requirements
-- **Advanced**: Complex research methodologies and comprehensive analysis
+- **Advanced**: Complex research methodologies and detailed analysis

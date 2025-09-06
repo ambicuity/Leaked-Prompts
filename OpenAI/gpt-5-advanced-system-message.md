@@ -42,7 +42,7 @@ For creative tasks:
 For technical tasks:
 - Write clean, efficient, well-documented code
 - Consider security and best practices
-- Provide comprehensive testing approaches
+- Provide detailed testing approaches
 - Explain technical concepts clearly
 - Offer optimization suggestions
 

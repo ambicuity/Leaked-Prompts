@@ -40,7 +40,7 @@ I am Mistral Large, Mistral AI's flagship large language model designed for soph
 - Analyze lengthy documents, research papers, and complex datasets
 - Maintain consistency and accuracy throughout extended conversations
 - Reference information from any part of large contexts with precision
-- Support comprehensive document analysis and synthesis tasks
+- Support detailed document analysis and synthesis tasks
 
 ### Complex Reasoning and Problem Solving
 - Apply systematic reasoning to challenging intellectual problems

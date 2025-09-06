@@ -13,7 +13,7 @@ A professional collection of reverse-engineered and system prompts for large lan
 
 ## Overview
 
-This repository serves as a comprehensive collection of system prompts and internal instructions extracted from various large language models (LLMs). The prompts are organized by AI platform and model version, documenting the actual system-level instructions used by these models in production environments.
+This repository serves as a detailed collection of system prompts and internal instructions extracted from various large language models (LLMs). The prompts are organized by AI platform and model version, documenting the actual system-level instructions used by these models in production environments.
 
 ### System Prompts by Platform
 
